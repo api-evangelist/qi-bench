@@ -1,0 +1,41 @@
+{
+    "name": "QI Bench",
+    "description": "<p>Quantitative imaging applications such as imaging biomarkers advance the utility of medical imaging. They may detect and characterize disease, before, during or after a course of therapy. They may also predict the course of disease, with or without therapy.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/qi-bench.jpg",
+    "tags": [
+        "have api",
+        "healthcare",
+        "medical imaging"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/qi-bench\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "QI Bench",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/qi-bench.jpg",
+            "humanURL": "http:\/\/qi-bench.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/qi-bench-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "http:\/\/api.qi-bench.org\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/qi-bench.org\/"
+        }
+    ]
+}
